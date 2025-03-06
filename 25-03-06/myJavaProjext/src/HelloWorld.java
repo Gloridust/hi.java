@@ -12,6 +12,7 @@ public class HelloWorld {
         // 变量示例
         int number = 10; // 整数类型
         String message = "这是一个 Java 示例"; // 字符串类型
+        System.out.println(message);
 
         // 条件语句示例
         if (number > 5) {
